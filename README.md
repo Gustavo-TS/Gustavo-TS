@@ -59,7 +59,4 @@ O app exibe informações de **contato, endereço e locais mais próximos** da s
   </a>
 </p>
 
-<p align="Left">
-  <img src="https://komarev.com/ghpvc/?username=Gustavo-ts&color=blue&style=flat" />
-</p>
 <p>
