@@ -19,9 +19,6 @@ O app exibe informações de **contato, endereço e locais mais próximos** da s
 🏆 Projeto **duplamente premiado** na MostraTech:  
 - Melhor projeto da instituição  
 - Melhor projeto do curso técnico em Informática  
-<br>
----
-
 
 ### 🛠️ Tecnologias
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
