@@ -59,8 +59,11 @@ O aplicativo permite:
 
 ---
 **## 📈 Git Stats
+[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
 
-[![Gustavo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavo-ts&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+NOMEGIT= gustavo-ts. 
+
+
 ---
 
 
