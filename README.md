@@ -58,6 +58,12 @@ O aplicativo permite:
 * 🥇 Melhor Projeto do Curso Técnico em Informática
 
 ---
+**## 📈 Git Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavots&theme=tokyo-night&hide_border=true"/>
+</p>**
+---
 
 
 ## 🌐 Conecte-se comigo
