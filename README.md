@@ -59,12 +59,14 @@ O aplicativo permite:
 
 ---
 
-![Status](https://github-readme-stats.vercel.app/api?username=Gustavo-TS&show_icons=true)
+## 📊 GitHub Stats
 
-[![Gustavo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gustavo-ts&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Gustavo-ts/github-readme-activity-graph)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-ts&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-ts&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
----https://github-readme-stats.vercel.app/
-
+---
 
 ## 🌐 Conecte-se comigo
 
