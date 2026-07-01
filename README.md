@@ -58,11 +58,8 @@ O aplicativo permite:
 * 🥇 Melhor Projeto do Curso Técnico em Informática
 
 ---
-**## 📈 Git Stats
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
 
-NOMEGIT= gustavo-ts. 
-
+![Status](https://github-readme-stats.vercel.app/api?username=Gustavo-TS&show_icons=true)
 
 ---
 
