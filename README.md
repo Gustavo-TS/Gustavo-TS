@@ -5,7 +5,7 @@
 
 > **Confira alguns dos meus principais projetos e aplicações:**
 >
-> 🔗 **https://gustavots-portfolio.vercel.app/#start**
+> 🔗 **https://gustavots-portfolio.vercel.app**
 
 ---
 
@@ -58,11 +58,9 @@ O aplicativo permite:
 * 🥇 Melhor Projeto do Curso Técnico em Informática
 
 ---
-**## 📈 Git Graph
+**## 📈 Git Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavo-ts&theme=tokyo-night&hide_border=true"/>
-</p>**
+[![Gustavo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavo-ts&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 
