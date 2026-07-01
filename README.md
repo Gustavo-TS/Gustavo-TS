@@ -61,7 +61,9 @@ O aplicativo permite:
 
 ![Status](https://github-readme-stats.vercel.app/api?username=Gustavo-TS&show_icons=true)
 
----
+[![Gustavo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gustavo-ts&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Gustavo-ts/github-readme-activity-graph)
+
+---https://github-readme-stats.vercel.app/
 
 
 ## 🌐 Conecte-se comigo
