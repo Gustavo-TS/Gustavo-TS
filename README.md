@@ -28,6 +28,7 @@ Tenho experiência no desenvolvimento de **Landing Pages**, **Sistemas Web**, **
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -63,8 +64,12 @@ O aplicativo permite:
 > 💼 Parte significativa da minha experiência está em repositórios privados e projetos corporativos, por isso nem todas as contribuições aparecem publicamente nos cards do GitHub.
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavo-ts&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavo-ts&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavo-ts&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavo-ts&layout=compact&theme=tokyonight&hide_border=true&count_private=true%22"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavo-ts&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavo-ts&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-ts&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
