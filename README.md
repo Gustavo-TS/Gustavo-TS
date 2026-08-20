@@ -13,8 +13,6 @@
 
 Olá! Sou **Gustavo Tagliatti Sampaio**, tenho **19 anos** e sou apaixonado por tecnologia e desenvolvimento de software.
 
-Concluí o **Ensino Médio integrado ao Técnico em Informática**, onde iniciei minha jornada no desenvolvimento de sistemas.
-
 Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** e atualmente estou concluindo a graduação em **Engenharia de Software**, sempre buscando evoluir como desenvolvedor e aprender novas tecnologias.
 
 Tenho experiência no desenvolvimento de **Landing Pages**, **Sistemas Web**, **APIs**, **Aplicações Full Stack** e **Sistemas Corporativos**, utilizando tecnologias modernas e focando em código limpo, performance e uma excelente experiência para o usuário.
@@ -47,29 +45,21 @@ Tenho experiência no desenvolvimento de **Landing Pages**, **Sistemas Web**, **
 
 Aplicativo desenvolvido para facilitar a localização de **Ecopontos** na região central de Guarulhos.
 
-O aplicativo permite:
-
-* 📍 Encontrar os ecopontos mais próximos da localização do usuário;
-* 🏠 Consultar endereços e informações de contato;
-* 🌱 Receber alertas de conscientização ambiental ao iniciar o aplicativo.
-
 🏆 **Projeto duplamente premiado na MostraTech**
-
 * 🥇 Melhor Projeto da Instituição
 * 🥇 Melhor Projeto do Curso Técnico em Informática
 
 ---
 
 ## 📊 GitHub Stats
-> 💼 Parte significativa da minha experiência está em repositórios privados e projetos corporativos, por isso nem todas as contribuições aparecem publicamente nos cards do GitHub.
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gustavo-ts&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gustavo-ts&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.herokuapp.com/api?username=Gustavo-ts&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=Gustavo-ts&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-ts&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-ts&theme=tokyonight"/>
 </p>
 
 ---
