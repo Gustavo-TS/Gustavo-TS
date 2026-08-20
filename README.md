@@ -54,11 +54,6 @@ Aplicativo desenvolvido para facilitar a localização de **Ecopontos** na regi�
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.herokuapp.com/api?username=Gustavo-ts&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=Gustavo-ts&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-ts&theme=tokyonight"/>
 </p>
 
