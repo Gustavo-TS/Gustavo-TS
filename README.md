@@ -65,21 +65,6 @@ Aplicativo desenvolvido para facilitar a localização de **Ecopontos** na regi�
 
 ---
 
-## ☕ Projetos Java
-
-Atualmente desenvolvendo projetos com foco em **Java e Spring Boot**, aplicando conceitos como:
-
-* APIs RESTful
-* Spring Boot
-* Spring Security
-* JWT
-* JPA / Hibernate
-* Orientação a Objetos
-* Arquitetura em camadas
-* Integração com bancos de dados relacionais
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
