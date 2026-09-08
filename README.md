@@ -13,7 +13,7 @@
 
 Olá! Sou **Gustavo Tagliatti Sampaio**, tenho **20 anos** e sou apaixonado por tecnologia e desenvolvimento de software.
 
-Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** e atualmente estou concluindo a graduação em **Engenharia de Software**, sempre buscando evoluir como desenvolvedor e aprofundar meus conhecimentos em desenvolvimento back-end e aplicações web.
+Sou formado em Análise e Desenvolvimento de Sistemas (ADS) e atualmente estou concluindo a graduação em Engenharia de Software, paralelamente à Pós-Graduação em Java pela Universidade Tecnológica Federal do Paraná (UTFPR). Busco evoluir continuamente como desenvolvedor e aprofundar meus conhecimentos em desenvolvimento back-end e aplicações web.
 
 Tenho experiência no desenvolvimento de **Sistemas Web, APIs RESTful, Aplicações Full Stack e Sistemas Corporativos**, utilizando tecnologias como **Java, Spring Boot, C#, .NET, React.js, Vue.js, SQL e AWS**.
 
